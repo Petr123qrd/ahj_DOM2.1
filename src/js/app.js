@@ -1,4 +1,4 @@
-import "./position";
+import Position from "./Position";
 import goblin from "../img/goblin.png";
 
 const containerEl = document.getElementsByClassName("container")[0];
